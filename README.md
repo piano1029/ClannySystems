@@ -1,3 +1,3 @@
 # ClannySystems
 
-This repo isn't being used currently
+This is Clanny's bug tracker and feature request system
