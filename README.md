@@ -14,4 +14,5 @@ Please list nobloxjs functions used,
 You have access to:
 - GroupID (number)
 - DB (NodeJS Firestore Object)
+
 If you need type descriptors or function documentation please tell me on Discord (piano1029#2891), you can dm (:
