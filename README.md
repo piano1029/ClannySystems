@@ -5,6 +5,7 @@ This is Clanny's bug tracker and feature request system
 ## Format for requesting diagnostics:
 
 Name: Smol description of diagnostic test
+
 Code: TS code block containing the test
 
 
